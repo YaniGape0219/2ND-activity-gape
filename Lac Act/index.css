@@ -1,0 +1,15 @@
+.div {
+    background:black;
+    color: aqua;
+    text-align: center;
+    border-color: palevioletred;
+    border-style: solid;
+}
+.table, th, td{
+    border: 1px solid black;
+}
+.pic {
+    width: 40%;
+    height: 40%;
+    object-fit: contain;
+}
